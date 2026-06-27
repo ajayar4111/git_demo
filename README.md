@@ -1,2 +1,2 @@
 # git_demo
-demo git 
+demo git -finance project demo
