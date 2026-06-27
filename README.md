@@ -1,2 +1,5 @@
 # git_demo
-demo git -finance project demo
+finance project demo
+this is demo in which getting the respository from github remote to local and make 
+changes and again upload to remote 
+
